@@ -61,6 +61,10 @@
 .cabeçalho__titulo{
     display: none;
 }
+
+.opcoes{
+    display: none;
+}
 @media screen and (min-width: 1024px) {
     .cabeçalho__titulo{
         font-family: var(--fonte-secundaria);
