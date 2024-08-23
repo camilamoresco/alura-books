@@ -95,7 +95,7 @@
     .cabeçalho__menu-hamburguer{
         display: none;
     }
-    .
+    
 
     .opcoes__botao:checked~.lista-menu{
         display: block;
