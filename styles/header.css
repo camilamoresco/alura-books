@@ -65,6 +65,9 @@
 .opcoes{
     display: none;
 }
+.container__texto {
+    display: none;
+  }
 
 @media screen and (min-width: 1024px) {
     .cabeçalho__titulo{
@@ -110,4 +113,10 @@
 
 @media screen and (min-width: 1728px){
     
+    .opcoes {
+        margin-right: auto;
+      }
+      .container__texto {
+        display: block;
+      }
 }
