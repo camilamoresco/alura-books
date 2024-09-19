@@ -10,6 +10,9 @@
 .container__botao:checked ~ .container__rotulo > .cabeçalho__menu-hamburguer{
     background-image: url("//img/Menu\ Aberto.svg");
 }
+.container__botao:checked ~ .container__rotulo{
+    background: var(--azul-degrade);
+}
 
 .cabeçalho {
     background-color: var(--branco);
